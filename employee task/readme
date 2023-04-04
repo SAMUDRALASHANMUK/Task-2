@@ -1,1 +1,12 @@
-
+Task #2  (2 days)
+    a) Create below classes -
+                  Use inheritance and polyphormism..
+                  Employee -
+                  Permanent Employee
+                  PartTime Employee
+                  Contract Employee
+   b) Create a class for below:
+                      The class should hold all types of employees.
+                      Create, modify and delete employee.
+                      List employees
+                      Employees Search functionality (using hashtable)
